@@ -1,0 +1,8 @@
+com\calculator\parser\CommandLineParserTest.class
+com\calculator\AddOperatorTest.class
+com\calculator\OperatorTypeTest.class
+com\calculator\MultiplyOperatorTest.class
+com\calculator\ExpressionEvaluatorTest.class
+com\calculator\DivideOperatorTest.class
+com\calculator\OperandTest.class
+com\calculator\SubtractOperatorTest.class
